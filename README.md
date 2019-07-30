@@ -1,5 +1,4 @@
 # BillingSystem
-<hr>
 
 - A Billing System application built entirely with **Java**. <br>
 -**Database Used** - PostgreSQl and **JDBC** for **DB Connectivity**.
