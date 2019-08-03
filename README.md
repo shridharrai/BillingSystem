@@ -13,3 +13,6 @@
 ![](https://github.com/shridharrai/BillingSystem/blob/master/files/Billing3.PNG)
 ![](https://github.com/shridharrai/BillingSystem/blob/master/files/Billing4.PNG)
 ![](https://github.com/shridharrai/BillingSystem/blob/master/files/Billing5.PNG)
+![](https://github.com/shridharrai/BillingSystem/blob/master/files/Billing6.PNG)
+![](https://github.com/shridharrai/BillingSystem/blob/master/files/Billing7.PNG)
+![](https://github.com/shridharrai/BillingSystem/blob/master/files/excel.PNG)
